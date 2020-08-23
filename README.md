@@ -1,3 +1,2 @@
-# POO
-[![Run on Repl.it](https://repl.it/badge/github/Nabor-RA/POO)](https://repl.it/github/Nabor-RA/POO)
-Programación Orientada a Objetos
+# POO-1719111035
+[![Run on Repl.it](https://repl.it/badge/github/YaelGF/POO_1719110736)](https://repl.it/github/YaelGF/POO_1719110736)
