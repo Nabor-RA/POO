@@ -1,6 +1,7 @@
+print(" A   V   I   O   N")
+print("")
 
-print (" A   V   I   O   N")
-print ("")
+
 class Avion:
     def __init__(self, persona, tamaño, color, carga, capacidad_tanque,
                  tiempo_vuelo, altura, velocidad, marca):
@@ -14,7 +15,7 @@ class Avion:
         self.velocidad = velocidad
         self.marca = marca
         print("Se acaba de crear un objeto")
-        print ("")
+        print("")
 
     def volar(self):
         print("volando")
@@ -36,9 +37,8 @@ class Avion:
             self.marca, self.velocidad)
 
 
-f = Avion(15, 60, "Blanco", 50, 15, 56, "Mediana", "Maxima",
-          "no")
-print ("")
+f = Avion(15, 60, "Blanco", 50, 15, 56, "Mediana", "Maxima", "no")
+print("")
 print("Metodos")
 f.volar()
 f.aterrizar()
